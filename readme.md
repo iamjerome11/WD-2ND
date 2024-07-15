@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Short Descriptiion. (Optional)
 </div>
 
 <br />
@@ -29,7 +29,7 @@
 
 <!-- TODO: If you want to add more layers for your readme -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Taable of Contents</summary>
   <ol>
     <li>
       <a href="#overview">Overview</a>
